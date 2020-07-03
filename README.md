@@ -21,4 +21,4 @@ func main() {
 
 ## Documentation
 
-See https://pkg.go.dev/github.com/BadgeBot/gogger for full documentation!
+See https://godoc.org/github.com/BadgeBot/gogger for full documentation!
