@@ -6,7 +6,7 @@ Gogger is a console logger designed for simplicity and great features at the sam
 
 Installation is simple, just use `go get` like any other package.
 ```
-go get github.com/Jack-Gledhill/googer
+go get github.com/Jack-Gledhill/gogger
 ```
 
 ## Example
